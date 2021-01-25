@@ -1,0 +1,18 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: beige;
+    background-color: rgb(179, 121, 202);
+    padding: 15px;
+}
+
+nav {
+    display: flex;
+    background-color: beige;
+    justify-content: space-around;
+}
+
+nav a {
+    padding: 10px;
+    color: purple;
+}
