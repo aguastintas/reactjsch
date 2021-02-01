@@ -1,4 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import CartWidgetComponent from './cart';
 import './estilos.css'
 
 const NavBarComponent = () => {
@@ -11,6 +12,7 @@ const NavBarComponent = () => {
         <a href="">Cakes</a>
         <a href="">Pedidos</a>
         <a href="">Contacto</a>
+        <CartWidgetComponent />
       </nav>
     </header> 
     </>
