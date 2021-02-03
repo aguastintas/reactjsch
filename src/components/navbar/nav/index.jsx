@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import CartWidgetComponent from './cart';
+import CartWidgetComponent from '../cart';
 import './estilos.css'
 
 const NavBarComponent = () => {

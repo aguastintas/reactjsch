@@ -1,9 +1,9 @@
-import cart from './shoppingcart.jpg'
+import { FaShoppingCart } from "react-icons/fa";
 
 const CartWidgetComponent = () => {
     return (
       <>
-      <img src={cart} alt=""/>
+      < FaShoppingCart />
       </>
     );
   }
